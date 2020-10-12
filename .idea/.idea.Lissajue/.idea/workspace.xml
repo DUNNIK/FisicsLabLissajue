@@ -22,10 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c31c70fa-dddc-4ddd-88bb-8cbab0bacfdd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lissajue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lissajue/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lissajue/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lissajue/Form1.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lissajue/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lissajue/Form1.cs" afterDir="false" />
+    <list default="true" id="c31c70fa-dddc-4ddd-88bb-8cbab0bacfdd" name="Default Changelist" comment="New update">
       <change beforePath="$PROJECT_DIR$/Lissajue/bin/Debug/Lissajue.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Lissajue/bin/Debug/Lissajue.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lissajue/bin/Debug/Lissajue.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lissajue/bin/Debug/Lissajue.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lissajue/obj/Debug/Lissajue.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Lissajue/obj/Debug/Lissajue.exe" afterDir="false" />
@@ -41,6 +38,7 @@
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/NIKITOS/RiderProjects/Lissajue/Lissajue/Form1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/NIKITOS/RiderProjects/Lissajue/Lissajue/Form1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/NIKITOS/RiderProjects/Lissajue/Lissajue/Form1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/NIKITOS/RiderProjects/Lissajue/Lissajue/Form1.cs" root0="SKIP_HIGHLIGHTING" />
@@ -99,8 +97,16 @@
       <option name="presentableId" value="Default" />
       <updated>1602427785274</updated>
       <workItem from="1602427793043" duration="11110000" />
-      <workItem from="1602484192970" duration="6103000" />
+      <workItem from="1602484192970" duration="6512000" />
     </task>
+    <task id="LOCAL-00001" summary="New update">
+      <created>1602497399356</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602497399356</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +143,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="New update" />
+    <option name="LAST_COMMIT_MESSAGE" value="New update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1602497064785">
@@ -151,22 +159,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="544" y="118" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602495157847" />
-    <state width="1493" height="115" key="GridCell.Tab.0.bottom" timestamp="1602497078852">
+    <state width="1493" height="115" key="GridCell.Tab.0.bottom" timestamp="1602497572440">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="115" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602497078852" />
-    <state width="1493" height="115" key="GridCell.Tab.0.center" timestamp="1602497078852">
+    <state width="1493" height="115" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602497572440" />
+    <state width="1493" height="115" key="GridCell.Tab.0.center" timestamp="1602497572440">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="115" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602497078852" />
-    <state width="1493" height="115" key="GridCell.Tab.0.left" timestamp="1602497078852">
+    <state width="1493" height="115" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602497572440" />
+    <state width="1493" height="115" key="GridCell.Tab.0.left" timestamp="1602497572440">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="115" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602497078852" />
-    <state width="1493" height="115" key="GridCell.Tab.0.right" timestamp="1602497078852">
+    <state width="1493" height="115" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602497572440" />
+    <state width="1493" height="115" key="GridCell.Tab.0.right" timestamp="1602497572440">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="115" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602497078852" />
+    <state width="1493" height="115" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602497572440" />
     <state width="1493" height="288" key="GridCell.Tab.1.bottom" timestamp="1602451808259">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -235,13 +243,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="VCS.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1602497064785" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602496994601">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602497490756">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602496994601" />
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602497064770">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602497490756" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602497468937">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1602497064770" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1602497468937" />
   </component>
 </project>
