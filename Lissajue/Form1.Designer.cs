@@ -65,7 +65,7 @@
             series1.Legend = "Legend1";
             series1.Name = "Series1";
             this.chart1.Series.Add(series1);
-            this.chart1.Size = new System.Drawing.Size(878, 460);
+            this.chart1.Size = new System.Drawing.Size(878, 573);
             this.chart1.TabIndex = 0;
             this.chart1.Text = "chart1";
             title1.Font = new System.Drawing.Font("Uni Sans Heavy Caps Italic", 15F, ((System.Drawing.FontStyle) ((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte) (204)));
@@ -76,7 +76,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(685, 467);
+            this.button1.Location = new System.Drawing.Point(685, 580);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(183, 85);
             this.button1.TabIndex = 1;
@@ -88,7 +88,7 @@
             // 
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (204)));
             this.label1.ForeColor = System.Drawing.SystemColors.ControlLight;
-            this.label1.Location = new System.Drawing.Point(151, 478);
+            this.label1.Location = new System.Drawing.Point(149, 618);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(38, 36);
             this.label1.TabIndex = 2;
@@ -96,7 +96,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(195, 482);
+            this.textBox1.Location = new System.Drawing.Point(193, 622);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(44, 22);
             this.textBox1.TabIndex = 3;
@@ -107,17 +107,18 @@
             // 
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (204)));
             this.label3.ForeColor = System.Drawing.SystemColors.ControlLight;
-            this.label3.Location = new System.Drawing.Point(26, 478);
+            this.label3.Location = new System.Drawing.Point(28, 618);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(38, 36);
             this.label3.TabIndex = 6;
             this.label3.Text = "x0";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label2
             // 
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (204)));
             this.label2.ForeColor = System.Drawing.SystemColors.ControlLight;
-            this.label2.Location = new System.Drawing.Point(280, 478);
+            this.label2.Location = new System.Drawing.Point(287, 618);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(38, 36);
             this.label2.TabIndex = 7;
@@ -127,7 +128,7 @@
             // 
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (204)));
             this.label4.ForeColor = System.Drawing.SystemColors.ControlLight;
-            this.label4.Location = new System.Drawing.Point(406, 478);
+            this.label4.Location = new System.Drawing.Point(412, 618);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(38, 36);
             this.label4.TabIndex = 8;
@@ -137,15 +138,16 @@
             // 
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (204)));
             this.label5.ForeColor = System.Drawing.SystemColors.ControlLight;
-            this.label5.Location = new System.Drawing.Point(538, 478);
+            this.label5.Location = new System.Drawing.Point(537, 618);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(44, 36);
             this.label5.TabIndex = 9;
             this.label5.Text = "Δφ";
+            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(70, 482);
+            this.textBox2.Location = new System.Drawing.Point(72, 622);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(44, 22);
             this.textBox2.TabIndex = 10;
@@ -154,7 +156,7 @@
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(324, 482);
+            this.textBox3.Location = new System.Drawing.Point(331, 622);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(44, 22);
             this.textBox3.TabIndex = 11;
@@ -163,7 +165,7 @@
             // 
             // textBox4
             // 
-            this.textBox4.Location = new System.Drawing.Point(450, 482);
+            this.textBox4.Location = new System.Drawing.Point(456, 622);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(44, 22);
             this.textBox4.TabIndex = 12;
@@ -172,7 +174,7 @@
             // 
             // textBox5
             // 
-            this.textBox5.Location = new System.Drawing.Point(588, 482);
+            this.textBox5.Location = new System.Drawing.Point(587, 622);
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(44, 22);
             this.textBox5.TabIndex = 13;
@@ -184,7 +186,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DimGray;
-            this.ClientSize = new System.Drawing.Size(880, 570);
+            this.ClientSize = new System.Drawing.Size(880, 677);
             this.Controls.Add(this.textBox5);
             this.Controls.Add(this.textBox4);
             this.Controls.Add(this.textBox3);
