@@ -1,0 +1,10 @@
+C:\Users\NIKITOS\RiderProjects\Lissajue\Lissajue\bin\Debug\Lissajue.exe.config
+C:\Users\NIKITOS\RiderProjects\Lissajue\Lissajue\bin\Debug\Lissajue.exe
+C:\Users\NIKITOS\RiderProjects\Lissajue\Lissajue\bin\Debug\Lissajue.pdb
+C:\Users\NIKITOS\RiderProjects\Lissajue\Lissajue\obj\Debug\Lissajue.csprojAssemblyReference.cache
+C:\Users\NIKITOS\RiderProjects\Lissajue\Lissajue\obj\Debug\Lissajue.Properties.Resources.resources
+C:\Users\NIKITOS\RiderProjects\Lissajue\Lissajue\obj\Debug\Lissajue.csproj.GenerateResource.cache
+C:\Users\NIKITOS\RiderProjects\Lissajue\Lissajue\obj\Debug\Lissajue.csproj.CoreCompileInputs.cache
+C:\Users\NIKITOS\RiderProjects\Lissajue\Lissajue\obj\Debug\Lissajue.exe
+C:\Users\NIKITOS\RiderProjects\Lissajue\Lissajue\obj\Debug\Lissajue.pdb
+C:\Users\NIKITOS\RiderProjects\Lissajue\Lissajue\obj\Debug\Lissajue.Form1.resources
