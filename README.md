@@ -5,4 +5,4 @@
 
 Обеспечить возможность изменения значений y0 ,x0 ,ωx, ωy и Δφ.
 
-![Иллюстрация к проекту](https://github.com/DUNNIK/FisicsLabLissajue/Photo.png)
+![Иллюстрация к проекту](https://github.com/DUNNIK/FisicsLabLissajue/blob/master/Photo.png)
