@@ -40,7 +40,7 @@ namespace Lissajue
                 }
                 
             }
-            catch (ArgumentException)
+            catch
             {
                 MessageBox.Show(@"Bad arguments!");
             }
