@@ -50,7 +50,7 @@
             // 
             // chart1
             // 
-            this.chart1.BackColor = System.Drawing.Color.DimGray;
+            this.chart1.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             chartArea1.BorderColor = System.Drawing.Color.White;
             chartArea1.Name = "ChartArea1";
             chartArea1.ShadowColor = System.Drawing.Color.WhiteSmoke;
@@ -87,11 +87,11 @@
             // 
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (204)));
             this.label1.ForeColor = System.Drawing.SystemColors.ControlLight;
-            this.label1.Location = new System.Drawing.Point(149, 618);
+            this.label1.Location = new System.Drawing.Point(122, 618);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(38, 36);
+            this.label1.Size = new System.Drawing.Size(65, 36);
             this.label1.TabIndex = 2;
-            this.label1.Text = "y0";
+            this.label1.Text = "y0, м";
             // 
             // textBox1
             // 
@@ -106,22 +106,22 @@
             // 
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (204)));
             this.label3.ForeColor = System.Drawing.SystemColors.ControlLight;
-            this.label3.Location = new System.Drawing.Point(28, 618);
+            this.label3.Location = new System.Drawing.Point(12, 618);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(38, 36);
+            this.label3.Size = new System.Drawing.Size(66, 36);
             this.label3.TabIndex = 6;
-            this.label3.Text = "x0";
+            this.label3.Text = "x0, м";
             this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label2
             // 
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (204)));
             this.label2.ForeColor = System.Drawing.SystemColors.ControlLight;
-            this.label2.Location = new System.Drawing.Point(287, 618);
+            this.label2.Location = new System.Drawing.Point(254, 618);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(38, 36);
+            this.label2.Size = new System.Drawing.Size(71, 36);
             this.label2.TabIndex = 7;
-            this.label2.Text = "ωx";
+            this.label2.Text = "wx, Гц";
             // 
             // label4
             // 
